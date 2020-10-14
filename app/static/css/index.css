@@ -1,14 +1,23 @@
-#logo {
-	height: 30px;
-	width: 30px;
+body {
+	background-image: url('../img/backgrounds/back_1.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+
 }
 
-img#animg {
+#logo {
+	height: 50px;
+	width: 50px;
+}
+
+/*img#animg {
 	height: inherit;
 	width: inherit;
-}
+}*/
 
 div#contents {
 	margin-top: 30%;
 	vertical-align: center;
 }
+
