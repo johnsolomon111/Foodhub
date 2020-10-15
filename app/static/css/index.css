@@ -12,8 +12,13 @@ body {
 }
 
 #logo {
-	height: 30px;
-	width: 30px;
+	height: 50px;
+	width: 50px;
+}
+#icon {
+	height: 20px;
+	width: 20px;
+	fill: maroon;
 }
 
 /*img#animg {
@@ -58,3 +63,12 @@ div#contents {
 /*div.form-group {
 	width: 50%;
 }*/
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
